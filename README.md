@@ -41,5 +41,12 @@
 
 ---
 
-> ทำขึ้นเพื่อ **เดโมการแปลงภาษาและเข้ารหัสข้อความ**  
-> ลองใช้งานได้เลย: [Hello Secret](https://jakkawal23.github.io/hello_secret/)
+## Example web
+
+![Example](images/20250906_01.png)
+![Example](images/20250906_02.png)
+![Example](images/20250906_03.png)
+![Example](images/20250906_04.png)
+![Example](images/20250906_05.png)
+![Example](images/20250906_06.png)
+![Example](images/20250906_07.png)
